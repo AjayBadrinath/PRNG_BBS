@@ -156,7 +156,7 @@ uint64_t gen_seed(){
     return (uint64_t)abs(seed);
 }
 
-
+/**Usage for demo Purpose    */
 void main(){
     uint64_t x=time(0);
     
